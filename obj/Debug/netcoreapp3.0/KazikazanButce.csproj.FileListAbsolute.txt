@@ -1,0 +1,22 @@
+C:\Users\oydeniz\Desktop\KazikazanButce\bin\Debug\netcoreapp3.0\KazikazanButce.exe
+C:\Users\oydeniz\Desktop\KazikazanButce\bin\Debug\netcoreapp3.0\KazikazanButce.deps.json
+C:\Users\oydeniz\Desktop\KazikazanButce\bin\Debug\netcoreapp3.0\KazikazanButce.runtimeconfig.json
+C:\Users\oydeniz\Desktop\KazikazanButce\bin\Debug\netcoreapp3.0\KazikazanButce.runtimeconfig.dev.json
+C:\Users\oydeniz\Desktop\KazikazanButce\bin\Debug\netcoreapp3.0\KazikazanButce.dll
+C:\Users\oydeniz\Desktop\KazikazanButce\bin\Debug\netcoreapp3.0\KazikazanButce.pdb
+C:\Users\oydeniz\Desktop\KazikazanButce\obj\Debug\netcoreapp3.0\KazikazanButce.csprojAssemblyReference.cache
+C:\Users\oydeniz\Desktop\KazikazanButce\obj\Debug\netcoreapp3.0\KazikazanButce.AssemblyInfoInputs.cache
+C:\Users\oydeniz\Desktop\KazikazanButce\obj\Debug\netcoreapp3.0\KazikazanButce.AssemblyInfo.cs
+C:\Users\oydeniz\Desktop\KazikazanButce\obj\Debug\netcoreapp3.0\KazikazanButce.dll
+C:\Users\oydeniz\Desktop\KazikazanButce\obj\Debug\netcoreapp3.0\KazikazanButce.pdb
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\bin\Debug\netcoreapp3.0\KazikazanButce.exe
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\bin\Debug\netcoreapp3.0\KazikazanButce.deps.json
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\bin\Debug\netcoreapp3.0\KazikazanButce.runtimeconfig.json
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\bin\Debug\netcoreapp3.0\KazikazanButce.runtimeconfig.dev.json
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\bin\Debug\netcoreapp3.0\KazikazanButce.dll
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\bin\Debug\netcoreapp3.0\KazikazanButce.pdb
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\obj\Debug\netcoreapp3.0\KazikazanButce.csprojAssemblyReference.cache
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\obj\Debug\netcoreapp3.0\KazikazanButce.AssemblyInfoInputs.cache
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\obj\Debug\netcoreapp3.0\KazikazanButce.AssemblyInfo.cs
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\obj\Debug\netcoreapp3.0\KazikazanButce.dll
+C:\Users\oydeniz\Desktop\KazikazanButce (1)\obj\Debug\netcoreapp3.0\KazikazanButce.pdb
